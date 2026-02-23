@@ -33,3 +33,6 @@ claude.local.md
 # OS
 .DS_Store
 Thumbs.db
+
+# Node modules
+node_modules/
