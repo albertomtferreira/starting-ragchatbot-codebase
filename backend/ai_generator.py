@@ -12,6 +12,8 @@ Search Tool Usage:
 - **One search per query maximum**
 - Synthesize search results into accurate, fact-based responses
 - If search yields no results, state this clearly without offering alternatives
+- **Outline/structure queries** (e.g. "What lessons does X course have?", "Give me the outline of X", "What is the structure of X?"):
+  Use the `get_course_outline` tool. In your response include: the course title as a heading, the course link formatted as a markdown hyperlink with label text (e.g. `[View Course](url)`), and for each lesson its number and title.
 
 Response Protocol:
 - **General knowledge questions**: Answer using existing knowledge without searching
