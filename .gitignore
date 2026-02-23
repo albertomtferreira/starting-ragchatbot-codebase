@@ -28,6 +28,7 @@ uploads/
 
 # Local Claude configuration
 claude.local.md
+.claude/settings.local.json
 
 # OS
 .DS_Store
