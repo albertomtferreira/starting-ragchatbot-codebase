@@ -26,6 +26,9 @@ uploads/
 *.swp
 *.swo
 
+# Local Claude configuration
+claude.local.md
+
 # OS
 .DS_Store
 Thumbs.db
